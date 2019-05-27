@@ -1,0 +1,12 @@
+{  
+    "name": "beyondprops-jsclient",  
+    "version": "0.0.1",  
+    "description": "Javascript client for beyondprops.",  
+    "main": "beyondpropsclient.js",  
+    "scripts": {  
+        "test": "echo \"Error: no test specified\" && exit 1"  
+    },  
+    "keywords": ["beyondprops", "beyond properties", "properties", "cloud"],  
+    "author": "bhaskargr",  
+    "license": "ISC"  
+}
