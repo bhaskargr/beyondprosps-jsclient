@@ -1,0 +1,2 @@
+# beyondprosps-jsclient
+Javascript client
